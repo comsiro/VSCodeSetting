@@ -1,3 +1,3 @@
 # VSCodeSetting
 
-Copy under C:\Users\{username}\AppData\Roaming\Code\User
+Copy under C:\Users\\{username}\AppData\Roaming\Code\User
