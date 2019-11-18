@@ -1,7 +1,11 @@
 {
+    "nativescript.analytics.enabled": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
     "powershell.scriptAnalysis.settingsPath": "./pssaSettings.psd1",
     "files.defaultLanguage": "powershell",
     "powershell.powerShellDefaultVersion": "6.2",
+    "workbench.startupEditor": "newUntitledFile",
     "editor.renderWhitespace": "all",
     "editor.wordWrap": "on",
     "editor.mouseWheelZoom": true,
